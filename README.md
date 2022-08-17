@@ -12,4 +12,4 @@ Interpreting user needs is done through continuous feedback from stakeholders of
 
 ***How do I approach designing software?***
 
-This can be done in a similar fashion as before. Start with a broad idea of what the program does, then narrow down the specifics. You need to understand the system as a whole in the program. You also need to understand how parts of the program work in conjunction with each other and their relationships. This will determine what parts of the program have access to what types of data.
+This can be done in a similar fashion as before. Start with a broad idea of what the program does, then narrow down the specifics. You need to understand the system as a whole in the program. You also need to understand how parts of the program work in conjunction with each other and their relationships. This will determine what parts of the program have access to what types of data and also gives you an idea of the logical flow of the program.
